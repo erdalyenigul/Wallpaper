@@ -4,7 +4,7 @@
       <div class="errorMsg" v-if="errorMsg">{{ errorMsg }}</div>
       <div class="header">  
         <div class="headLogo">
-          <a href="/" class="img"><img src="./assets/images/logo.png"></a>
+          <a href="/wallpaper" class="img"><img src="./assets/images/logo.png"></a>
           <h1 class="headText">Free Mobile And Desktop <br> <span>Wallpapers</span></h1>
         </div>  
         <div class="searchInput">
