@@ -2,9 +2,9 @@
 
 > Wallpaper app using with VueJs
 
-> Photos from Unsplash API (apikey is demo, so don't try to steal :) )
+> Photos from Unsplash API (apikey is demo)
 
-Demo : http://erdalyenigul.com/works/wallpaper/
+Demo : http://erdalyenigul.com/wallpaper/
 
 ## Project setup
 ```
